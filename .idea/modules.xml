@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/CubeMX-STM32-Libraries-CU.iml" filepath="$PROJECT_DIR$/.idea/CubeMX-STM32-Libraries-CU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ANME_STM32CubeMX_Library.iml" filepath="$PROJECT_DIR$/.idea/ANME_STM32CubeMX_Library.iml" />
     </modules>
   </component>
 </project>
